@@ -1,24 +1,34 @@
-# README
+# Collective
+> management of projects and people can be easy and collaborative.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![License][license-image]][license-url]
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-Things you may want to cover:
 
-* Ruby version
+## Features
+- [] Management:
+ - [] Projects
+   - [] Notify changelog
+ - [] Feedbacks
+ - [] Tribes
+ - [] users/profiles
+ - [] Management of feedback(public/private)
 
-* System dependencies
+## Requirements
 
-* Configuration
+- Ruby 2.4
+- PostgreSQL
 
-* Database creation
 
-* Database initialization
+## Contribute
 
-* How to run the test suite
+We would love for you to contribute to **Colletive**, check the ``LICENSE`` file for more info.
 
-* Services (job queues, cache servers, search engines, etc.)
+## Meta
 
-* Deployment instructions
+Vinicius Torves – [@vtorves](https://twitter.com/vtorves) – vinicius@torves.com
 
-* ...
+Distributed under the MIT license. See ``LICENSE`` for more information.
+
+[license-image]: https://img.shields.io/badge/License-MIT-blue.svg
+[license-url]: LICENSE.md
