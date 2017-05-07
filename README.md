@@ -6,13 +6,13 @@
 
 
 ## Features
-- [] Management:
- - [] Projects
-   - [] Notify changelog
- - [] Feedbacks
- - [] Tribes
- - [] users/profiles
- - [] Management of feedback(public/private)
+- [ ] Management:
+ - [ ] Projects
+   - [ ] Notify changelog
+ - [ ] Feedbacks
+ - [ ] Tribes
+ - [ ] users/profiles
+ - [ ] Management of feedback(public/private)
 
 ## Requirements
 
